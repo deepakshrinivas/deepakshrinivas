@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Aspiring Data Scientist
 -----------------------------------------
 
-* 🌍  I'm based in Hyderabad
+* 🌍  I'm based in Canada/India
 * ✉️  You can contact me at [shrinivasdeepak12@gmail.com](mailto:shrinivasdeepak12@gmail.com)
 * 🧠  I'm learning PowerBI
 * 🤝  I'm open to collaborating on Interesting Projects
