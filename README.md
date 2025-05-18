@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is S. Deepak Shrinivas
 ===========================================================================================================================================
 
-Web Developer and Aspiring Data Scientist
+Data Analyst and Aspiring Threat intelligence Analyst
 -----------------------------------------
 
 * 🌍  I'm based in Canada/India
-* ✉️  You can contact me at [shrinivasdeepak12@gmail.com](mailto:shrinivasdeepak12@gmail.com)
-* 🧠  I'm learning PowerBI
+* ✉️  You can contact me at [satishsdeepak12@gmail.com](mailto:satishdeepak12@gmail.com)
+* 🧠  I'm learning Cloud Technologies
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
